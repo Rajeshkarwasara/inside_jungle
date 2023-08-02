@@ -1,0 +1,1232 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    height: 145px;
+}
+
+
+header {
+    background: #6caf12;
+
+}
+
+.rightnaw hr {
+    height: 16px;
+}
+
+.rightnaw ul {
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    font-size: 13px;
+    height: 35px;
+}
+
+.rightnaw a {
+    text-decoration: none;
+    padding: 8px;
+    color: white;
+}
+
+.max {
+
+    max-width: 1100px;
+    margin: auto
+}
+
+.logo {
+    width: 30%;
+}
+
+.rightnaw {
+    width: 70%;
+}
+
+.ture_logo {
+    display: flex;
+    justify-content: end;
+}
+
+
+.rightnaw hr {
+    color: white;
+}
+
+.Travellers a {
+    color: black;
+}
+
+
+.Travellers {
+    display: flex;
+    width: 45%;
+    justify-content: end;
+    align-items: center;
+}
+
+
+
+.rightnaw ul a:hover {
+    color: black;
+}
+
+.ture_logo h1 {
+    background: #83bb5f;
+    font-size: 22px;
+    padding: 10px 7px;
+    font-weight: lighter;
+}
+
+.Travellers h2 {
+    font-weight: lighter;
+    font-size: 19px;
+}
+
+.submenu {
+    background: #ffd716;
+    margin-top: 1px;
+    position: sticky;
+    top: 0px;
+}
+
+.submenu ul {
+    list-style: none;
+    display: flex;
+}
+
+.submenu a {
+    text-decoration: none;
+    color: black;
+}
+
+.submenu ul li {
+    padding: 20px;
+}
+
+.submenu a:hover {
+    color: green;
+}
+
+.tiger_img img {
+    width: 100%;
+    cursor: pointer;
+    margin-top: 1px;
+}
+
+.India_Wildlife {
+    background: #6caf12;
+    color: white;
+    height: 448px;
+    margin-top: -4px;
+
+}
+
+.India_Wildlife h1 {
+
+    font-size: 48px;
+    text-align: center;
+}
+
+.India_Wildlife p {
+    text-align: center;
+}
+
+.India_Wildlife a {
+    color: #edac01;
+    text-decoration: none;
+}
+
+.India_Wildlife a:hover {
+    color: black;
+}
+
+.button1 {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.button1 button {
+    width: 23%;
+    font-size: 17px;
+    padding: 9px;
+    background: none;
+    border: 2px solid #febf3e;
+    font-weight: 600;
+    transition: .4s ease-in-out;
+}
+
+.button1 button:hover {
+    background: white;
+    transition: .4s linear;
+
+}
+
+.button1 button a:hover {
+    color: #cc9105;
+}
+
+
+
+
+.India_tours h1 {
+
+    text-align: center;
+    font-size: 35px;
+    color: #cc9105;
+    height: 100px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+
+}
+
+.broun_line1 {
+    text-align: center;
+}
+
+.India_tours p {
+    text-align: center;
+    /* margin-top: 10px; */
+}
+
+.India_tours {
+    height: 300px;
+}
+
+.India_tours a {
+    text-decoration: none;
+    color: #ffac00;
+}
+
+.India_tours a:hover {
+    color: black;
+}
+
+.img2 {
+    margin-top: -29px;
+}
+
+.img2 img {
+    width: 100%;
+}
+
+.box {
+    width: 100%;
+    margin-top: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box1 {
+    width: 264px;
+    background-image: url("Screenshot 2023-06-01 152916.png");
+    background-size: 100%;
+    height: 311px;
+    color: white;
+    margin: 5px;
+}
+
+.box h5 {
+    font-size: 16px;
+    width: 77%;
+    margin: auto;
+}
+
+.National_Park {
+    padding-top: 45px;
+}
+
+.box p {
+    font-size: 24px;
+    width: 78%;
+    margin: auto;
+}
+
+.box2 {
+    width: 264px;
+    background-image: url("Screenshot 2023-06-01 153024.png");
+    background-size: 100%;
+    height: 311px;
+    color: white;
+    margin: 5px;
+}
+
+.box3 {
+    width: 264px;
+    background-image: url("Screenshot 2023-06-01 153108.png");
+    background-size: 100%;
+    height: 311px;
+    color: white;
+    margin: 5px;
+}
+
+.box4 {
+    width: 264px;
+    background-image: url("Screenshot 2023-06-01 153150.png");
+    background-size: 100%;
+    height: 311px;
+    color: white;
+    margin: 6px;
+}
+
+.box5 {
+    width: 264px;
+    background-image: url("Screenshot 2023-06-01 153400.png");
+    background-size: 100%;
+    height: 311px;
+    color: white;
+    margin: 5px;
+}
+
+.box6 {
+    width: 264px;
+    background-image: url("Screenshot 2023-06-01 153150.png");
+    background-size: 100%;
+    height: 311px;
+    color: white;
+    margin: 5px;
+}
+
+.box7 {
+    width: 264px;
+    background-image: url("Screenshot 2023-06-01 153433.png");
+    background-size: 100%;
+    height: 311px;
+    color: white;
+    margin: 5px;
+}
+
+.box8 {
+    width: 264px;
+    background-image: url("tiger8.png");
+    background-size: 100%;
+    height: 311px;
+    color: white;
+    margin: 5px;
+}
+
+.bttnn {
+    display: flex;
+    justify-content: center;
+    color: #e5ac02;
+    height: 100px;
+    align-items: center;
+}
+
+
+
+.btn1 button {
+    padding: 10px 7px 10px 7px;
+    border: 2px solid #febf3e;
+    font-weight: 600;
+    background: none;
+}
+
+.btn1 a {
+    color: #ffac00;
+    text-decoration: none;
+}
+
+.btn2 a {
+    color: #ffac00;
+    text-decoration: none;
+}
+
+
+.btn2 button {
+    padding: 10px 7px 10px 7px;
+    border: 2px solid #febf3e;
+    font-weight: 600;
+    background: none;
+}
+
+.footerimg {
+    background: url("Footer-before-bg.png") repeat-x top left;
+    height: 9px;
+    margin-top: -7px;
+}
+
+.btn2 {
+    margin-left: 1%;
+}
+
+.btn1 a:hover {
+    color: white;
+}
+
+.btn2 a:hover {
+    color: white;
+}
+
+.bttnn button:hover {
+    background: green;
+    color: white;
+    transition: .4s linear;
+}
+
+.blue_line {
+    display: flex;
+    margin: auto;
+}
+
+.animals_name {
+    background: #f5f5f5;
+    height: 619px;
+}
+
+.animals_name h2 {
+    text-align: center;
+    padding-top: 5%;
+    color: #cc9105;
+    font-size: 35px;
+}
+
+.imgline {
+    text-align: center;
+    padding-left: 2%;
+    height: 128px;
+}
+
+.imgline a {
+    text-decoration: none;
+    color: #fdb726;
+}
+
+.imgline a:hover {
+    color: black;
+}
+
+.tiger_datiles {
+    display: flex;
+    height: 80px;
+    align-items: end;
+    padding: 10px;
+}
+
+.jungleicn {
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.Royal_Bengal {
+    box-shadow: 0px 0px 4px 0px gray;
+    width: 265px;
+}
+
+.jungle1 img {
+    width: 100%;
+}
+
+.jungleicn a {
+    text-decoration: none;
+    color: #5b5b5b;
+    font-size: 18px;
+}
+
+
+
+.jungle2 img {
+    width: 100%;
+}
+
+.elephant {
+    box-shadow: 0px 0px 4px 0px gray;
+    width: 265px;
+}
+
+.elephant_datiles {
+    display: flex;
+    height: 80px;
+    align-items: end;
+    padding: 10px;
+}
+
+
+
+.jungle3 img {
+    width: 100%;
+}
+
+.lione {
+    box-shadow: 0px 0px 4px 0px gray;
+    width: 265px;
+}
+
+.lione_datiles {
+    display: flex;
+    height: 48px;
+    padding: 10px;
+    position: relative;
+    top: 39px;
+}
+
+
+
+.jungle4 img {
+    width: 100%;
+}
+
+.rhinos {
+    box-shadow: 0px 0px 4px 0px gray;
+    width: 265px;
+}
+
+.rhinos_datiles {
+    display: flex;
+    height: 48px;
+    padding: 10px;
+    position: relative;
+    top: 39px;
+}
+
+.fa-solid,
+.fas {
+    font-weight: 900;
+    font-size: 29px;
+    color: #c7c7c7;
+    border: 1px solid #c7c7c7;
+    border-radius: 46px;
+    padding: 8px 13px 8px 15px;
+    margin-bottom: 0px;
+    position: relative;
+    left: 33px;
+}
+
+.jungleicn a:hover {
+    color: #fcc24a;
+}
+
+.contaners {
+    background: #ffd717;
+
+    margin-top: -12px;
+}
+
+.hediiing h2 {
+    padding-top: 4%;
+    font-size: 35px;
+    text-align: center;
+}
+
+.img4 {
+    margin-top: -15px;
+}
+
+.img4 img {
+    width: 100%;
+}
+
+.img5 {
+    text-align: center;
+}
+
+.pregrapph {
+    text-align: center;
+    height: 100px;
+}
+
+.tigers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+
+.contner1 {
+    width: 209px;
+    margin: 5px;
+}
+
+.contner1 img {
+    width: 100%;
+}
+
+.contner1 h4 {
+    color: white;
+    background: #6caf12;
+    font-size: 21px;
+    margin-top: -4px;
+    height: 69px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contner2 {
+    width: 209px;
+    margin: 5px;
+}
+
+.contner2 img {
+    width: 100%;
+}
+
+.contner2 h4 {
+    color: white;
+    background: #6caf12;
+    font-size: 21px;
+    margin-top: -4px;
+    height: 69px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contner3 {
+    width: 209px;
+    margin: 5px;
+}
+
+.contner3 img {
+    width: 100%;
+}
+
+.contner3 h4 {
+    color: white;
+    background: #6caf12;
+    font-size: 21px;
+    margin-top: -4px;
+    height: 69px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contner4 {
+    width: 209px;
+    margin: 5px;
+}
+
+.contner4 img {
+    width: 100%;
+}
+
+.contner4 h4 {
+    color: white;
+    background: #6caf12;
+    font-size: 21px;
+    margin-top: -4px;
+    height: 69px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contner5 {
+    width: 209px;
+    margin: 5px;
+}
+
+.contner5 img {
+    width: 100%;
+}
+
+.tigers a {
+    color: white;
+    text-decoration: none;
+}
+
+.tigers a:hover {
+    color: black;
+}
+
+.contner5 h4 {
+    color: white;
+    background: #6caf12;
+    font-size: 21px;
+    margin-top: -4px;
+    height: 69px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#peregraph {
+    text-align: center;
+
+    height: 120px;
+}
+
+#imgs2 {
+    width: 100%;
+}
+
+.book {
+    font-size: 36px;
+    color: #cc9105;
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.lastimg {
+    text-align: center;
+}
+
+#p1st {
+    text-align: center;
+    width: 99%;
+    height: 130px;
+}
+
+
+
+.Tailor_Made {
+    width: 240px;
+    background: #f5f5f5;
+    height: 265px;
+    margin: 12px;
+}
+
+
+
+
+
+.Tailor_Made h4 {
+    font-size: 24px;
+
+    color: #cc9105;
+    text-align: center;
+}
+
+
+
+.Tailor_Made p {
+    text-align: center;
+    color: #dbb65f;
+    line-height: 21px;
+}
+
+.Expert_Knowledge {
+    width: 240px;
+    background: #f5f5f5;
+    height: 265px;
+    margin: 12px;
+}
+
+.icn1 {
+    width: 100%;
+    margin-top: -24px;
+    text-align: center;
+}
+
+.Expert_Knowledge h4 {
+    font-size: 24px;
+
+    color: #cc9105;
+    text-align: center;
+}
+
+
+.Expert_Knowledge p {
+    text-align: center;
+    color: #dbb65f;
+    line-height: 21px;
+}
+
+.Travel_Services {
+    width: 240px;
+    background: #f5f5f5;
+    height: 265px;
+    margin: 12px;
+}
+
+
+.Travel_Services h4 {
+    font-size: 24px;
+
+    color: #cc9105;
+    text-align: center;
+}
+
+
+
+.Travel_Services p {
+    text-align: center;
+    color: #dbb65f;
+    line-height: 21px;
+}
+
+.Conservation {
+    width: 240px;
+    background: #f5f5f5;
+    height: 265px;
+    margin: 12px;
+}
+
+
+
+.Conservation h4 {
+    font-size: 24px;
+    color: #cc9105;
+    text-align: center;
+}
+
+.Conservation p {
+    text-align: center;
+    color: #dbb65f;
+    line-height: 21px;
+}
+
+.boxing {
+    display: flex;
+    flex-wrap: wrap;
+    height: 340px;
+    justify-content: center;
+}
+
+.greenbox {
+    background: #6dae12;
+}
+
+.greenh {
+    text-align: center;
+    padding-top: 4%;
+    font-size: 35px;
+    color: white;
+}
+
+.img10 {
+    text-align: center;
+}
+
+.greenbox p {
+    text-align: center;
+    color: white;
+    height: 100px;
+}
+
+.jungle_news {
+
+    width: 100%;
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.boxz {
+    width: 354px;
+    background-image: url("tiger-censusii.jpg");
+    background-size: cover !important;
+    height: 232px;
+    margin: 5px;
+}
+
+
+
+.boxy {
+    width: 354px;
+    background-image: url("wildlife-in-indiab.jpg");
+    background-size: cover !important;
+    height: 232px;
+    margin: 5px;
+}
+
+.jungle_news h1 {
+    color: white;
+    text-align: center;
+    height: 231px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.boxx {
+    width: 354px;
+    background-image: url("birds-keolideo-parkc.jpg");
+    background-size: cover !important;
+    height: 232px;
+    margin: 5px;
+}
+
+.next {
+    display: flex;
+}
+
+.fa-solid.fa-chevron-down {
+    display: none;
+}
+
+#imgs {
+    width: 100%;
+}
+
+.alll {
+    display: flex;
+
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 53px;
+    flex-wrap: wrap;
+}
+
+.Navigate_Site {
+
+    width: 205px;
+}
+
+.About_Us {
+    padding-top: 2%;
+    width: 205px;
+}
+
+.About_Us {
+    padding-top: 39px;
+    width: 22%;
+}
+
+.Social {
+    width: 205px;
+}
+
+.logo2 {
+    width: 205px;
+}
+
+.imgq {
+    width: 70%;
+}
+
+.logo2 p {
+    font-size: 10px;
+    line-height: 18px;
+}
+
+#p {
+    font-size: 7px;
+}
+
+footer {
+    background-image: url("footer-backg.jpg");
+    height: 389px;
+
+}
+
+footer a {
+    color: #cba37d;
+    text-decoration: none;
+}
+
+.boxz:hover {
+    opacity: 0.7;
+    transition: opacity .2s linear;
+}
+
+.boxy:hover {
+    opacity: 0.7;
+    transition: opacity .2s linear;
+}
+
+.boxx:hover {
+    opacity: 0.7;
+    transition: opacity .2s linear;
+}
+
+footer a:hover {
+    color: white;
+}
+
+footer h4 {
+    color: white;
+}
+
+footer {
+    color: #b38b65;
+}
+
+.fa-brands.fa-facebook-f {
+    background: #ffcfa6;
+    padding: 9px 12px 9px 12px;
+    border-radius: 28px;
+}
+
+.fa-brands.fa-twitter {
+    background: #ffcfa6;
+    padding: 9px 10px 9px 10px;
+    border-radius: 28px;
+}
+
+.fa-brands.fa-google-plus-g {
+    background: #ffcfa6;
+    padding: 9px 8px 9px 10px;
+    border-radius: 28px;
+}
+
+.fa-brands.fa-square-instagram {
+    background: #ffcfa6;
+    padding: 9px 12px 9px 11px;
+    border-radius: 28px;
+}
+
+.fa-brands.fa-linkedin-in {
+    background: #ffcfa6;
+    padding: 9px 11px 9px 11px;
+    border-radius: 28px;
+}
+
+.manubaar {
+    display: none;
+}
+
+@media(max-width:1106px) {
+    .submenu ul li {
+        padding: 10px;
+    }
+
+    .animals_name {
+        height: 208vh;
+
+        .greenbox p {
+            height: 200px;
+        }
+
+    }
+
+    @media(max-width:1030px) {
+        .ture_logo h1 {
+            background: #83bb5f;
+            font-size: 15px;
+            padding: 10px 7px;
+        }
+    }
+
+    @media(max-width:960px) {
+        .submenu ul li {
+            padding: 10px;
+            font-size: 13px;
+        }
+        .greenbox p{height: 170px;}
+    }
+
+    @media(max-width:820px) {
+        .ture_logo h1 {
+            display: none;
+        }
+
+        .rightnaw ul {
+            display: none;
+        }
+
+        .submenu {
+            display: none;
+        }
+
+        .Travellers {
+            display: none;
+        }
+
+        .pregrapph {
+            height: 180px;
+        }
+
+        .manubaar {
+            display: block;
+            width: 100%;
+            text-align: end;
+            position: relative;
+            right: 80px;
+        }
+
+        .hediiing h2 {
+            font-size: 25px;
+        }
+
+        footer a {
+            display: none;
+        }
+
+        .Social span {
+            display: none;
+        }
+    }
+
+    @media(max-width:1500px) {
+        .img2 {
+            margin-top: -21px;
+        }
+    }
+
+    @media(max-width:1080px) {
+        .button1 button {
+            width: 27%;
+            font-size: 15px;
+        }
+
+        .boxing {
+            height: 150vh;
+        }
+
+        .rhinos_datiles {
+            position: relative;
+            top: 0px;
+        }
+
+        .lione_datiles {
+
+            position: relative;
+            top: 0px;
+        }
+
+        .Royal_Bengal {
+            margin: 10px;
+        }
+
+        .elephan {
+            margin: 10px;
+        }
+
+        .lione {
+            margin: 10px;
+        }
+
+        .rhinos {
+            margin: 10px;
+        }
+
+        .imgline {
+            height: 250px;
+        }
+
+        .img2 {
+            margin-top: -18px;
+        }
+
+        .India_Wildlife {
+            height: 100vh;
+        }
+
+        .boxing {
+            height: 150vh;
+        }
+    }
+
+    @media(max-width:810px) {
+        .button1 button {
+            width: 38%;
+            font-size: 15px;
+        }
+
+        .India_Wildlife h1 {
+            font-size: 30px;
+        }
+
+        .Navigate_Site {
+            height: 40px;
+        }
+
+        .About_Us {
+            height: 40px;
+        }
+
+        .Social {
+            height: 40px;
+        }
+    }
+
+    @media(max-width:575px) {
+        .button1 button {
+            width: 43%;
+            font-size: 13px;
+        }
+
+        .animals_name {
+            height: 260vh;
+        }
+
+        .boxing {
+            height: 180vh;
+        }
+
+       
+    }
+
+    @media(max-width:848px) {
+        .India_tours h1 {
+            font-size: 19px;
+        }
+
+        .box {
+            margin-top: 45px;
+        }
+    }
+
+    @media(max-width:550px) {
+        .India_tours p {
+            font-size: 15px;
+        }
+
+        .India_tours {
+            height: 400px;
+        }
+    }
+
+    @media(max-width:620px) {
+        .animals_name h2 {
+            font-size: 25px;
+        }
+
+        .hediiing h2 {
+            font-size: 17px;
+        }
+    }
+
+    @media(max-width:570px) {}
+
+    @media(max-width:670px) {
+        #peregraph {
+            height: 200px;
+        }
+
+        #p1st {
+            height: 180px;
+        }
+
+        .fa-solid.fa-chevron-down {
+            display: block;
+            font-size: 14px;
+            border: navajowhite;
+            width: 28%;
+        }
+
+        .next h4 {
+            width: 100%;
+        }
+    }
+
+    @media(max-width:770px) {
+        .yellow_line {
+            margin-top: -8px;
+        }
+    }
+
+    @media(max-width:410px) {
+        .Social {
+            height: 40px;
+        }
+    }
+    @media(max-width:455px){
+        .India_Wildlife {
+            height: 110vh;
+          }
+          .button1 button {
+            width: 50%;}
+    }
+}
